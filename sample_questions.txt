@@ -1,0 +1,8 @@
+What does TOP stand for?
+What is a cookie?
+What are best coding practices?
+What is the third best coding practice?
+Why?
+For a Rule-based system, what is contained in the Initialization & Preparation Phase of algorithm development life cycle?
+To write readable code according to the high level coding standard, what should I do?
+
